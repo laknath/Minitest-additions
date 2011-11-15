@@ -1,0 +1,9 @@
+Notes
+======
+
+Here included some of the script additions for minitest in hope it might help another soul. It's using Turn for pretty output, few rake helpers and rspec like before_all, after_all invocations.
+
+Credits
+========
+*) Tim Pease for Turn::MiniRunner
+*) Gavin Morrice for more helpers

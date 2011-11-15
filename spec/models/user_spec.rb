@@ -3,7 +3,7 @@ require File.join(File.dirname(__FILE__), '..', 'spec_helper')
 describe "Scenario 1" do
 
   def self.before_suite
-    #any variables that may need instantiated once per whole suite
+    #any variable that may needs instantiated once per whole suite
     #@@company = Company.make
 
     #basically admitting...	

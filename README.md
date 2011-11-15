@@ -5,5 +5,5 @@ Here included few script additions for minitest in hope it might help another so
 
 Credits
 ========
-*) [Tim Pease](https://github.com/TwP) for Turn::MiniRunner
-*) [Gavin Morrice](http://gavinmorrice.com/blog_posts/18-writing-rails-helper-tests-specs-using-minitest-spec "Gavin Morrice") for more helpers
+* [Tim Pease](https://github.com/TwP) for Turn::MiniRunner
+* [Gavin Morrice](http://gavinmorrice.com/blog_posts/18-writing-rails-helper-tests-specs-using-minitest-spec "Gavin Morrice") for more helpers
